@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="544be571-a757-47b0-a2e5-aa163c5dc07e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/contas/templates/contas/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contas/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controle_gastos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/controle_gastos/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contas/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contas/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contas/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/contas/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
