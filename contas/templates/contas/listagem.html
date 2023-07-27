@@ -8,13 +8,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Seja bem-vindo</h1>
-
-    <p>Agora sao: {{ now }} </p>
+    <h2>Listagem</h2>
     <ul>
     {% for transacao in transacoes %}
-        <li>{{ transacao }}</li>
+        <li>{{ transacao.descricao }} - {{ transacao.data }} - {{transacao.categoria}} </li>
     {% endfor %}
-    </ul>
+        </ul>
 </body>
 </html>
